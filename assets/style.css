@@ -1,1 +1,78 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
 
+body {
+    font-family: 'San Francisco', Arial, sans-serif;
+    background: linear-gradient(135deg, #1c1c1c, #000000);
+    color: #f0f0f0;
+    line-height: 1.6;
+}
+
+header {
+    text-align: center;
+    padding: 40px 20px;
+    background: rgba(255, 255, 255, 0.1);
+    backdrop-filter: blur(10px);
+    border-radius: 10px;
+    margin: 20px;
+    box-shadow: 0 0 20px rgba(255, 255, 255, 0.2);
+}
+
+h1, h2, p, ul li {
+    font-weight: bold;
+}
+
+h1 {
+    font-size: 2.5em;
+    color: #007acc;
+    text-shadow: 0 0 10px rgba(0, 122, 204, 0.8);
+    line-height: 1;
+    margin-bottom: 5px;
+}
+
+.nytrium-title {
+    font-size: 4em;
+    display: block;
+    color: #00c6ff;
+    text-shadow: 0 0 20px rgba(0, 198, 255, 1);
+    margin-top: -5px;
+}
+
+p {
+    font-size: 1.2em;
+    margin: 20px 0;
+}
+
+.section {
+    padding: 40px 20px;
+    margin: 20px;
+    background: rgba(255, 255, 255, 0.1);
+    backdrop-filter: blur(10px);
+    border-radius: 10px;
+    box-shadow: 0 0 15px rgba(255, 255, 255, 0.2);
+}
+
+h2 {
+    margin-bottom: 20px;
+    text-shadow: 0 0 10px rgba(255, 255, 255, 0.5);
+}
+
+ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    margin-top: 40px;
+    font-size: 0.9em;
+    color: #ccc;
+    background: rgba(255, 255, 255, 0.1);
+    backdrop-filter: blur(10px);
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.2);
+}
