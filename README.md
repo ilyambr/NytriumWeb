@@ -22,7 +22,7 @@
 To follow along with Nytrium's development or to start contributing, clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/Nytrium.git
+git clone https://github.com/ilyambr/Nytrium.git
 cd Nytrium
 ```
 
