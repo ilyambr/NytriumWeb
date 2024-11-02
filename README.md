@@ -20,6 +20,7 @@
 
 ### Installation
 To follow along with Nytrium's development or to start contributing, clone the repository:
+(This is currently in the works but it should look like this)
 
 ```bash
 git clone https://github.com/ilyambr/Nytrium.git
